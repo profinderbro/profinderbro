@@ -8,7 +8,7 @@
  <tr><td><a href="https://github.com/profinderbro/profinderbro/blob/main/README.md"><img src="https://raw.githubusercontent.com/Carol42/Carol42/main/assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
 </table>
 
-## Project info
+<h2>Project info</h2>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/profinderbro/profinderbro?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/profinderbro/profinderbro?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
@@ -19,7 +19,7 @@
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="made with python" height="22px"></a>
 </div>
 
-## How to reach me
+<h2>How to reach me</h2>
 <a href="https://github.com/profinderbro">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/profinderbro?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@profinderbro" height="22px">
 </a>
@@ -31,7 +31,7 @@
 </a>
 </br>
 
-## Languages & Tools I use
+<h2>Languages & Tools I use</h2>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -42,7 +42,7 @@
 <code> <img title="SQL" alt="sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 </br></br>
 
-## Cybersecurity Tools
+<h2>Cybersecurity Tools</h2>
 <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="22px"></a>
 <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logoColor=white" height="22px"></a>
 <a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-2596BE?style=for-the-badge&logoColor=white" height="22px"></a>
@@ -52,47 +52,11 @@
 </br></br>
 
 <details>
-<summary>🕵️‍♂️ Click here for a hacker surprise!</summary>
-
-### 🎯 OSINT Detection in Progress...
-
-<div align="center">
-
-**Click the link below to reveal your IP address:**
-
-**[🔍 DETECT MY IP ADDRESS](https://whatismyipaddress.com/)**
-
----
-
-**Alternative IP Detection Tools:**
-- [🌐 Check IP - ipinfo.io](https://ipinfo.io/)
-- [🔎 IP Lookup - whatismyip.com](https://www.whatismyip.com/)
-- [🛡️ Security Check - browserleaks.com](https://browserleaks.com/ip)
-
----
-
-**🔍 OSINT Demonstration Complete!**
-
-This shows how easily your public information can be gathered:
-- ✅ IP Address Detection
-- ✅ Geographic Location 
-- ✅ ISP Information
-- ✅ Browser Fingerprinting
-- ✅ Network Analysis
-
-**💡 Pro Tip:** Always use a VPN to protect your privacy and mask your real IP address!
-
-**🛡️ Recommended Privacy Tools:**
-- ProtonVPN, NordVPN, or ExpressVPN
-- Tor Browser for anonymous browsing
-- Pi-hole for DNS filtering
-- Firewall configuration
-
-</div>
-
+<summary>Click here for a hacker surprise!</summary>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5dWJqZ3JtM2V2d3h4d3ZlN2Y3ZjN4dGp6eGx2eGg5d3R6a2RkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnmiqNhI1G6Bqw/giphy.gif">
 </details>
 
-## My Projects
+<h2>My Projects</h2>
 <a href="https://github.com/profinderbro/project1">
     <img alt="link to my OSINT tool" src="https://github-readme-stats.vercel.app/api/pin/?username=profinderbro&repo=project1&theme=dark&hide_border=true">
 </a>

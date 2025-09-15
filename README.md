@@ -36,6 +36,12 @@ const proFinderBro = {
 <code><img title="Docker" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img title="Bash" alt="bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
 <code><img title="SQL" alt="sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img title="ChatGPT" alt="chatgpt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png"></code>
+<code><img title="Grok" alt="grok" width="35px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.65.0/files/dark/grok.png"></code>
+<code><img title="GLM 4.5" alt="glm4.5" width="35px" src="https://raw.githubusercontent.com/zai-org/GLM-4.5/refs/heads/main/resources/logo.svg"></code>
+<code><img title="Cloude Sonnet" alt="cloude-sonnet" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"></code>
+<code><img title="Deep Seek" alt="deep-seek" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DeepSeek-icon.svg/640px-DeepSeek-icon.svg.png"></code>
+
 
 
 </br>
@@ -59,25 +65,15 @@ const proFinderBro = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=profinderbro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
-## **Connect With Me**
 
-
-<div align="center">
-  <a href="https://twitter.com/pro.finder.bro">
-    <img src="https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:pro.finder.bro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/profinderbro">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/profinderbro">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br>
+<h2>How to reach me</h2>
+<a href="https://twitter.com/pro.finder.bro/">
+  <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=FFD700&logo=x&logoColor=000000" height="22px">
+</a>
+<a href="mailto:pro.finder.bro@gmail.com">
+  <img alt="link to send me an email" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=pro.finder.bro@gmail.com&color=FFD700&logo=gmail&logoColor=000000" height="22px">
+</a>
+</br>
 
 ## **Contribution Graph**
 

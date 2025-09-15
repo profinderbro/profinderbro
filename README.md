@@ -17,7 +17,8 @@
 const proFinderBro = {
     pronouns: "he/him",
     code: ["Python", "JavaScript", "Bash", "SQL"],
-    askMeAbout: ["cybersecurity", "OSINT", "web scraping", "data analysis"],
+    askMeAbout: 
+    ["cybersecurity", "OSINT", "web scraping", "data analysis"],
     technologies: {
     operatingSystems: ["Kali Linux", "Ubuntu", "Windows"],
     tools: ["Wireshark", "Nmap", "Burp Suite", "Metasploit"],

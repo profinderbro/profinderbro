@@ -1,7 +1,7 @@
-<div id="top"></div>
+
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/Carol42/Carol42/main/assets/header.png"></div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FF4500&size=30&center=true&vCenter=true&width=450&lines=I'm+Pro+Finder+Bro;He/him;Cybersecurity+Enthusiast;OSINT+Specialist;Web+Scraping+Expert;Data+Leak+Researcher;Cyber+Geek;Ethical+Hacker" alt="Cybersecurity Enthusiast, OSINT Specialist, Web Scraping Expert"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FF4500&size=30&center=true&vCenter=true&width=450&lines=I'm+Pro+Finder+Bro;He/him;Cybersecurity+Enthusiast;OSINT+Specialist;Web+Scraping+Expert;Data+Leak+Researcher;Cyber+Geek;Ethical+Hacker" alt="Cybersecurity Enthusiast, OSINT Lover..., Web Scraping..."></a>
 </div>
 
 <table align="right">
@@ -14,15 +14,10 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/profinderbro/profinderbro?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/profinderbro/profinderbro?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/profinderbro/profinderbro?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/uses-badges.svg" alt="uses badges" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="made with python" height="22px"></a>
+<img src="https://github.com/user-attachments/assets/732de654-9f0d-4ab3-9385-5c0449a8cf40" alt="made-with-markdown" style="height:22px;display:block;vertical-align:middle">
 </div>
 
 <h2>How to reach me</h2>
-<a href="https://github.com/profinderbro">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/profinderbro?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@profinderbro" height="22px">
-</a>
 <a href="https://twitter.com/pro.finder.bro/">
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=000&logo=x" height="22px">
 </a>
@@ -40,7 +35,7 @@
 <code><img title="Docker" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
 <code><img title="Bash" alt="bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <code> <img title="SQL" alt="sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-</br></br>
+</br>
 
 <h2>Cybersecurity Tools</h2>
 <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="22px"></a>
@@ -50,11 +45,6 @@
 <a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logoColor=white" height="22px"></a>
 <a href="https://www.torproject.org/"><img alt="Tor" src="https://img.shields.io/badge/-Tor-7E4798?style=for-the-badge&logoColor=white" height="22px"></a>
 </br></br>
-
-<details>
-<summary>Click here for a hacker surprise!</summary>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5dWJqZ3JtM2V2d3h4d3ZlN2Y3ZjN4dGp6eGx2eGg5d3R6a2RkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnmiqNhI1G6Bqw/giphy.gif">
-</details>
 
 <h2>My Projects</h2>
 <a href="https://github.com/profinderbro/project1">

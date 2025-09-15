@@ -11,8 +11,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=profinderbro&style=for-the-badge&color=7E3ACE" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/profinderbro?style=for-the-badge&color=7E3ACE" alt="Followers">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-brightgreen?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-7E3ACE?style=for-the-badge" alt="Focus">
+
+
+
 </div>
 
 <br>

@@ -82,6 +82,22 @@ const proFinderBro = {
   <img alt="" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
 </div>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ## **GitHub Analytics**

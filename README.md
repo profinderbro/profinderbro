@@ -21,7 +21,7 @@
 
 ## **About Me**
 
-<img align="right" src="https://github.com/user-attachments/assets/038bc195-b666-43ca-9807-2f8cc09bf4f2" height="260" alt="Coding GIF">
+<img align="right" src="https://github.com/user-attachments/assets/038bc195-b666-43ca-9807-2f8cc09bf4f2" height="255" alt="Coding GIF">
 
 ```typescript
 const proFinderBro = {

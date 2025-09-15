@@ -36,7 +36,7 @@ const proFinderBro = {
 <code><img title="Docker" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img title="Bash" alt="bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
 <code><img title="SQL" alt="sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img title="ChatGPT" alt="chatgpt" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png"></code>
+<code><img title="ChatGPT" alt="chatgpt" width="35px" src="https://img.icons8.com/m_rounded/512/FFFFFF/chatgpt.png"></code>
 <code><img title="Grok" alt="grok" width="35px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.65.0/files/dark/grok.png"></code>
 <code><img title="GLM 4.5" alt="glm4.5" width="35px" src="https://raw.githubusercontent.com/zai-org/GLM-4.5/refs/heads/main/resources/logo.svg"></code>
 <code><img title="Cloude Sonnet" alt="cloude-sonnet" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"></code>
@@ -48,14 +48,14 @@ const proFinderBro = {
 
 <h2>Cybersecurity Tools</h2> 
 
-<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFD700" height="22px"></a>
-<a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FFD700" height="22px"></a>
-<a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FFD700" height="22px"></a>
-<a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logo=portswigger&logoColor=FFD700" height="22px"></a>
-<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FFD700" height="22px"></a>
-<a href="https://www.torproject.org/"><img alt="Tor" src="https://img.shields.io/badge/-Tor-000000?style=for-the-badge&logo=torproject&logoColor=FFD700" height="22px"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700" height="22px"></a>
-<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700" height="22px"></a>
+<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-FFFF00?style=for-the-badge&logo=wireshark&logoColor=000000" height="22px"></a>
+<a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-FFFF00?style=for-the-badge&logo=nmap&logoColor=000000" height="22px"></a>
+<a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-FFFF00?style=for-the-badge&logo=metasploit&logoColor=000000" height="22px"></a>
+<a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-FFFF00?style=for-the-badge&logo=portswigger&logoColor=000000" height="22px"></a>
+<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-FFFF00?style=for-the-badge&logo=kali-linux&logoColor=000000" height="22px"></a>
+<a href="https://www.torproject.org/"><img alt="Tor" src="https://img.shields.io/badge/-Tor-FFFF00?style=for-the-badge&logo=torproject&logoColor=000000" height="22px"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=000000" height="22px"></a>
+<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FFFF00?style=for-the-badge&logo=linux&logoColor=000000" height="22px"></a>
 
 
 ## **GitHub Analytics**
@@ -68,10 +68,10 @@ const proFinderBro = {
 
 <h2>How to reach me</h2>
 <a href="https://twitter.com/pro.finder.bro/">
-  <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=FFD700&logo=x&logoColor=000000" height="22px">
+  <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=FFFF00&logo=x&logoColor=000000" height="22px">
 </a>
 <a href="mailto:pro.finder.bro@gmail.com">
-  <img alt="link to send me an email" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=pro.finder.bro@gmail.com&color=FFD700&logo=gmail&logoColor=000000" height="22px">
+  <img alt="link to send me an email" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=pro.finder.bro@gmail.com&color=FFFF00&logo=gmail&logoColor=000000" height="22px">
 </a>
 </br>
 

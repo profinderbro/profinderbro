@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/Carol42/Carol42/main/assets/header.png">
+
+  <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/header.png">
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -100,5 +101,5 @@ const proFinderBro = {
   </a>
 </div>
 <div align="center">
-  <img alt="" width="100%" src="https://raw.githubusercontent.com/Carol42/Carol42/main/assets/footer.png">
+  <img alt="" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
 </div>

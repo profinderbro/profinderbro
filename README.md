@@ -2,6 +2,7 @@
 
   <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/header.png">
 </div>
+</br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pro+Finder+Bro;He/him;Cybersecurity+Enthusiast;OSINT+Specialist;Web+Scraping+Expert;Data+Leak+Researcher;Cyber+Geek;Ethical+Hacker" alt="Cybersecurity Enthusiast, OSINT Lover..., Web Scraping...">
@@ -42,11 +43,10 @@ const proFinderBro = {
 <code><img title="Cloude Sonnet" alt="cloude-sonnet" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"></code>
 <code><img title="Deep Seek" alt="deep-seek" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DeepSeek-icon.svg/640px-DeepSeek-icon.svg.png"></code>
 
-
+<img align="right" src="https://github.com/user-attachments/assets/3e8a8a9f-fb88-4fef-8f84-9fb1b61c4364" height="250" alt="Coding GIF">
 
 </br>
-
-<h2>Cybersecurity Tools</h2> 
+</br>
 
 <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-FFFF00?style=for-the-badge&logo=wireshark&logoColor=000000" height="22px"></a>
 <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-FFFF00?style=for-the-badge&logo=nmap&logoColor=000000" height="22px"></a>
@@ -57,6 +57,32 @@ const proFinderBro = {
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=000000" height="22px"></a>
 <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FFFF00?style=for-the-badge&logo=linux&logoColor=000000" height="22px"></a>
 
+<h2>How to reach me</h2>
+
+<a href="https://x.com/ProBro1015471">
+  <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=FFFF00&logo=x&logoColor=000000" height="22px">
+</a>
+<a href="mailto:pro.finder.bro@gmail.com">
+  <img alt="link to send me an email" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=pro.finder.bro@gmail.com&color=FFFF00&logo=gmail&logoColor=000000" height="22px">
+</a>
+</br>
+</br>
+</br>
+</br>
+
+---
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Stay+Curious!+Stay+Secure!">
+  </a>
+</div>
+
+---
+<div align="center">
+  <img alt="" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
+</div>
+
+
 
 ## **GitHub Analytics**
 
@@ -65,22 +91,11 @@ const proFinderBro = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=profinderbro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
-
-<h2>How to reach me</h2>
-<a href="https://twitter.com/pro.finder.bro/">
-  <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@pro.finder.bro&color=FFFF00&logo=x&logoColor=000000" height="22px">
-</a>
-<a href="mailto:pro.finder.bro@gmail.com">
-  <img alt="link to send me an email" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=pro.finder.bro@gmail.com&color=FFFF00&logo=gmail&logoColor=000000" height="22px">
-</a>
-</br>
-
 ## **Contribution Graph**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=profinderbro&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
-<img align="right" src="https://github.com/user-attachments/assets/3e8a8a9f-fb88-4fef-8f84-9fb1b61c4364" height="250" alt="Coding GIF">
 <br>
 
 ## **GitHub Trophies**
@@ -89,13 +104,3 @@ const proFinderBro = {
   <img src="https://github-profile-trophy.vercel.app/?username=profinderbro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 <br>
-
----
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=Stay+Curious!+Stay+Secure!">
-  </a>
-</div>
-<div align="center">
-  <img alt="" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
-</div>

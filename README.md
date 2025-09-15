@@ -74,24 +74,24 @@ const proFinderBro = {
 ### **Cybersecurity Toolkit**
 
 <p align="left">
-<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="28px"></a>
-<a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="28px"></a>
-<a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="28px"></a>
-<a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" height="28px"></a>
-<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="28px"></a>
-<a href="https://nuclei.projectdiscovery.io/"><img alt="Nuclei" src="https://img.shields.io/badge/-Nuclei-00C851?style=for-the-badge&logoColor=white" height="28px"></a>
-<a href="https://www.shodan.io/"><img alt="Shodan" src="https://img.shields.io/badge/-Shodan-DC143C?style=for-the-badge&logoColor=white" height="28px"></a>
-<a href="https://www.maltego.com/"><img alt="Maltego" src="https://img.shields.io/badge/-Maltego-1F4E79?style=for-the-badge&logoColor=white" height="28px"></a>
+<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-FCC624?style=for-the-badge&logo=wireshark&logoColor=white" height="28px"></a>
+<a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-FCC624?style=for-the-badge&logo=nmap&logoColor=white" height="28px"></a>
+<a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-FCC624?style=for-the-badge&logo=metasploit&logoColor=white" height="28px"></a>
+<a href="https://portswigger.net/burp"><img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-FCC624?style=for-the-badge&logo=portswigger&logoColor=white" height="28px"></a>
+<a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-FCC624?style=for-the-badge&logo=kali-linux&logoColor=white" height="28px"></a>
+<a href="https://nuclei.projectdiscovery.io/"><img alt="Nuclei" src="https://img.shields.io/badge/-Nuclei-FCC624?style=for-the-badge&logoColor=white" height="28px"></a>
+<a href="https://www.shodan.io/"><img alt="Shodan" src="https://img.shields.io/badge/-Shodan-FCC624?style=for-the-badge&logoColor=white" height="28px"></a>
+<a href="https://www.maltego.com/"><img alt="Maltego" src="https://img.shields.io/badge/-Maltego-FCC624?style=for-the-badge&logoColor=white" height="28px"></a>
 </p>
 
 ### **Infrastructure & Cloud**
 
 <p align="left">
-<a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28px"></a>
-<a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28px"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28px"></a>
+<a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/-AWS-7D4698?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28px"></a>
+<a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-7D4698?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28px"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-7D4698?style=for-the-badge&logo=docker&logoColor=white" height="28px"></a>
 <a href="https://www.torproject.org/"><img alt="Tor" src="https://img.shields.io/badge/-Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" height="28px"></a>
-<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28px"></a>
+<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-7D4698?style=for-the-badge&logo=linux&logoColor=black" height="28px"></a>
 </p>
 
 <br clear="right"/>

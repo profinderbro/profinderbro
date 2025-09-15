@@ -19,10 +19,10 @@ const proFinderBro = {
     code: ["Python", "JavaScript", "Bash", "SQL"],
     askMeAbout: ["cybersecurity", "OSINT", "web scraping", "data analysis"],
     technologies: {
-        operatingSystems: ["Kali Linux", "Ubuntu", "Windows"],
-        tools: ["Wireshark", "Nmap", "Burp Suite", "Metasploit"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        misc: ["Docker", "Git", "Tor", "VPN"]},
+    operatingSystems: ["Kali Linux", "Ubuntu", "Windows"],
+    tools: ["Wireshark", "Nmap", "Burp Suite", "Metasploit"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    misc: ["Docker", "Git", "Tor", "VPN"]},
     currentFocus: "Ethical Hacking & Data Leak Research",
     funFact: "I debug with console.log() and I'm not ashamed! "};
 ```

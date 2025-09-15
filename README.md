@@ -94,12 +94,6 @@ const proFinderBro = {
 
 <br clear="right"/>
 
-## **Achievements & Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=profinderbro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
 ## **Current Projects & Focus Areas**
 
 <div align="center">

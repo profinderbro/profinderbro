@@ -19,7 +19,7 @@
 
 ## **About Me**
 
-<img align="right" src="https://github.com/user-attachments/assets/038bc195-b666-43ca-9807-2f8cc09bf4f2" height="280" alt="Coding GIF">
+<img align="right" src="https://github.com/user-attachments/assets/038bc195-b666-43ca-9807-2f8cc09bf4f2" height="265" alt="Coding GIF">
 
 ```typescript
 const proFinderBro = {
@@ -100,17 +100,11 @@ const proFinderBro = {
   <img src="https://github-profile-trophy.vercel.app/?username=profinderbro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-## **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=profinderbro&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
 ## **Current Projects & Focus Areas**
 
 <div align="center">
 
-| 🔍 **OSINT Research** | 🛡️ **Security Tools** | 🕸️ **Web Scraping** | 📊 **Data Analysis** |
+| **OSINT Research** | **Security Tools** | **Web Scraping** | **Data Analysis** |
 |:---:|:---:|:---:|:---:|
 | Social Media Intelligence | Custom Vulnerability Scanners | E-commerce Data Mining | Threat Intelligence Reports |
 | Digital Footprint Analysis | Automated Pentesting Tools | API Data Extraction | Malware Pattern Analysis |
@@ -118,14 +112,12 @@ const proFinderBro = {
 
 </div>
 
-## 🔗 **Connect With Me**
+## **Connect With Me**
 
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-@pro.finder.bro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ProBro1015471)
 [![Email](https://img.shields.io/badge/Email-pro.finder.bro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.finder.bro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/profinderbro)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/profinderbro)
 [![Telegram](https://img.shields.io/badge/Telegram-@profinderbro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/profinderbro)
 
 </div>
@@ -139,17 +131,13 @@ const proFinderBro = {
 -  [Zero-Day Discovery: My First CVE Experience](https://hackernoon.com/@profinderbro)
 <!-- BLOG-POST-LIST:END -->
 
-## **Random Cyber Facts**
+## **Jokes**
 
-<div align="center">
+<div align="left">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Joke" />
 </div>
 
 ---
-
-<div align="center">
-  
-### **"In the world of cybersecurity, paranoia is just good sense"**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -161,8 +149,4 @@ const proFinderBro = {
 
 <div align="center">
   <img alt="Footer" width="100%" src="https://raw.githubusercontent.com/profinderbro/profinderbro/refs/heads/main/footer.png">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </div>
